@@ -1,4 +1,3 @@
-```markdown
 # MQTT Communication Between Cloud VPS and ESP32
 
 This project demonstrates how to set up MQTT communication between an ESP32 running MicroPython and a Python-based MQTT server hosted on a cloud VPS. The server can receive sensor data from the ESP32 and send control commands back to it.
@@ -51,6 +50,3 @@ The project consists of two main components:
 
 ## Author
 Created by [unreliablecode](https://github.com/unreliablecode).
-```
-
-This `README.md` gives an overview without including the actual code and directs users to the appropriate files (`server.py` and `main.py`).
